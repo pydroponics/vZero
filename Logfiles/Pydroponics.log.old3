@@ -1,0 +1,11 @@
+2013-06-05 08:07:18,643 - Main.Startup - INFO - Light Height Reset - 06/05/2013 08:07:18
+2013-06-05 08:07:23,652 - Main.Serial - DEBUG - Sent LR - 06/05/2013 08:07:23
+2013-06-05 08:07:23,661 - Main.Serial - DEBUG - Received  - 06/05/2013 08:07:23
+2013-06-05 08:07:23,670 - Main.Startup - INFO - Air Pump On - 06/05/2013 08:07:23
+2013-06-05 08:07:25,677 - Main.Sensor - INFO - pH Data Thread - 06/05/2013 08:07:25
+2013-06-05 08:07:27,680 - Main.Sensor - INFO - TDS Data Thread - 06/05/2013 08:07:27
+2013-06-05 08:07:28,676 - Main.Serial - DEBUG - Sent A1 - 06/05/2013 08:07:28
+2013-06-05 08:07:28,680 - Main.Serial - DEBUG - Received  - 06/05/2013 08:07:28
+2013-06-05 08:07:29,683 - Main.Sensor - INFO - DHT Data Thread - 06/05/2013 08:07:29
+2013-06-05 08:07:31,785 - Main.Database - DEBUG - Received (40.0, 20.0) - 06/05/2013 08:07:31
+2013-06-05 08:07:31,797 - Main.Schedule - INFO - Light Schedule Thread - 06/05/2013 08:07:31
